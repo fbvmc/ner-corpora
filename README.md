@@ -1,7 +1,7 @@
 <a href="http://data.cervantesvirtual.com/"><img src=http://data.cervantesvirtual.com/blog/wp-content/uploads/2017/05/fbvmc.png></a> 
 
 # ner-corpora
-Named Entity Recognition data for Biblioteca Virtual Miguel de Cervantes
+Named Entity Recognition data for [Biblioteca Virtual Miguel de Cervantes](http://data.cervantesvirtual.com)
 
 ### Introduction
 The corpora comprise files encoded in the BIO format (Ramshaw & Marcus, 1995). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). *O* tags are used to indicate that the token is not a named entity.
