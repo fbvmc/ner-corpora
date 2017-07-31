@@ -42,8 +42,8 @@ Riego	PERS
 
 You are free to use this data without restrictions. We're thankful if you give attribution to:
 
-*Biblioteca Virtual Miguel de Cervantes NER corpora*
-*https://github.com/fbvmc/ner-corpora/.*
+*Biblioteca Virtual Miguel de Cervantes NER corpora*   
+*https://github.com/fbvmc/ner-corpora/.*  
 *http://data.cervantesvirtual.com/.*
 
 
