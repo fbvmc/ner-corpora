@@ -46,6 +46,7 @@ You are free to use this data without restrictions. We're thankful if you give a
 *https://github.com/fbvmc/ner-corpora/.*  
 *http://data.cervantesvirtual.com/.*
 
+[Semantic Enrichment on Cultural Heritage collections: A case study using geographic information. Gustavo Candela, Pilar Escobar, Manuel Marco-Such](http://dl.acm.org/citation.cfm?doid=3078081.3078090)
 
 ### Background
 The way the above corpora were produced, additional work is required to harness the full potential of the annotated data for tasks such as evaluation, where gold standard quality is required. 
