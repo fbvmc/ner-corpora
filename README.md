@@ -1,6 +1,5 @@
 <a href="http://data.cervantesvirtual.com/"><img src=http://data.cervantesvirtual.com/blog/wp-content/uploads/2017/05/fbvmc.png></a> 
 
-
 # ner-corpora
 Named Entity Recognition data for Biblioteca Virtual Miguel de Cervantes
 
@@ -49,6 +48,5 @@ You are free to use this data without restrictions. We're thankful if you give a
 [Semantic Enrichment on Cultural Heritage collections: A case study using geographic information. Gustavo Candela, Pilar Escobar, Manuel Marco-Such](http://dl.acm.org/citation.cfm?doid=3078081.3078090)
 
 ### Background
-The way the above corpora were produced, additional work is required to harness the full potential of the annotated data for tasks such as evaluation, where gold standard quality is required. 
-Currently, the corpora has been mainly annotated with locations. Further work is needed in order to take advantage of Persons and Organizations.
+The way the above corpora were produced, additional work is required to harness the full potential of the annotated data for tasks such as evaluation, where gold standard quality is required. Currently, the corpora has been mainly annotated with locations. Further work is needed in order to take advantage of Persons and Organizations.
 
