@@ -5,7 +5,7 @@
 Named Entity Recognition data for Biblioteca Virtual Miguel de Cervantes
 
 ### Introduction
-The corpora comprise files encoded in the BIO format (Ramshaw & Marcus, 1995). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are PER (person), LOC (location) and ORG (organization). To indicate named entities that span multiple tokens, the tags have a prefix of either B- (begining of named entity) or I- (continuation of named entity). O tags are used to indicate that the token is not a named entity.
+The corpora comprise files encoded in the BIO format (Ramshaw & Marcus, 1995). The BIO format is a simple, text-based format that divides texts into single tokens per line, and, separated by a whitespace, tags to indicate which ones are named entities. The most commonly used tags are *PER* (person), *LOC* (location) and *ORG* (organization). *O* tags are used to indicate that the token is not a named entity.
 
 Example:
 ```
@@ -42,9 +42,9 @@ Riego	PERS
 
 You are free to use this data without restrictions. We're thankful if you give attribution to:
 
-Biblioteca Virtual Miguel de Cervantes NER corpora
-https://github.com/fbvmc/ner-corpora/.
-http://data.cervantesvirtual.com/.
+*Biblioteca Virtual Miguel de Cervantes NER corpora
+*https://github.com/fbvmc/ner-corpora/.
+*http://data.cervantesvirtual.com/.
 
 
 ### Background
