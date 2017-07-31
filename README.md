@@ -49,4 +49,5 @@ You are free to use this data without restrictions. We're thankful if you give a
 
 ### Background
 The way the above corpora were produced, additional work is required to harness the full potential of the annotated data for tasks such as evaluation, where gold standard quality is required. Currently, the corpora has been mainly annotated with locations. Further work is needed in order to take advantage of Persons and Organizations.
+Based on the BIO  files classifiers for the Stanford NER Recognizer were trained and subsequently evaluated in a 4-fold cross-evaluation. The files can be found in [cross-validation](cross-validation) folder.
 
